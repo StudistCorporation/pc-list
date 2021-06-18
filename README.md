@@ -24,6 +24,7 @@
 | 2 | Windows | [Dell XPS15](https://www.dell.com/en-us/shop/presidents-day-deals/new-xps-15-laptop/spd/xps-15-7590-laptop) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 15 Inchs | 4K (3840 x 2160) |
 | 3 | Mac | [MacBook Book Air](https://www.apple.com/jp/macbook-air/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
 | 4 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 5 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
 
 ## キーボードレイアウト
 
@@ -53,11 +54,10 @@
 
 ## Mac
 
-現状、スタディストの開発においてはARMプロセッサーで開発に必要なDockerイメージの一部が起動できない為、④のIntelプロセッサーのMacのみとなります
-
 | Model Number | OS | Model | CPU | Cores | Threads | RAM | SSD | Display Size | Resolution |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | Mac | [MacBook Pro 16 Inch](https://www.apple.com/jp/macbook-pro-16/) | Intel Core i9 | 8 Cores | 16 Threads | 32GB | 1TB | 16 Inchs | 3092 x 1920 |
+| 5 | Mac | [MacBook Pro 13 Inch](https://www.apple.com/jp/macbook-pro-13/) | Apple M1 | 8 Cores | - | 16GB | 500GB | 13 Inchs | WQXGA (2560 x 1600) |
 
 # 開発部以外
 
